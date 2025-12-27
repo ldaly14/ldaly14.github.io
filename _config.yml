@@ -1,4 +1,7 @@
-theme: jekyll-theme-minimal
-title: Liam's homepage
-description: Bookmark this to keep an eye on my project updates!
-markdown: kramdown
+title: My Site
+description: Notes, projects, and thoughts
+theme: minima  
+
+header_pages:
+  - about.md
+
