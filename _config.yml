@@ -3,7 +3,10 @@ description: Notes and Thoughts
 theme: minima
 
 header_pages:
-  - about.md
+  - index.md
   - research.md
+  - CV.md
+  - photos.md
   - notes.md
+  - reading.md
 
