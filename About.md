@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Home
+title: About
 ---
 
-# Welcome
+# About Me
 
-This is my GitHub Pages site.
+I am a graduate student in physics.
 
-I haven’t added much yet, but it works!
+This site will host notes, projects, and resources.
