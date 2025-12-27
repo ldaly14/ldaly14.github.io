@@ -1,8 +1,8 @@
-title: My Site
-description: Notes, projects, and thoughts
-theme: minima 
+title: Liam Daly
+description: Notes and Thoughts
+theme: midnight
 
 header_pages:
-  - index.md
-  - About.md
+  - about.md
+  - bio.md
 
