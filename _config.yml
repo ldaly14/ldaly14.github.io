@@ -4,5 +4,5 @@ theme: minima
 
 header_pages:
   - about.md
-  - bio.md
+  - notes.md
 
