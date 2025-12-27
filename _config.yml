@@ -1,6 +1,6 @@
 title: Liam Daly
 description: Notes and Thoughts
-theme: jekyll-theme-minimal
+theme: minima
 
 header_pages:
   - index.md
