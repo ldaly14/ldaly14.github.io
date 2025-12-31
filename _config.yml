@@ -1,6 +1,13 @@
 title: Liam Daly
 description: Notes and Thoughts
 theme: jekyll-minimal-mistakes
+url: "https://ldaly14.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+
+plugins:
+  - jekyll-include-cache
 
 header_pages:
   - index.md
