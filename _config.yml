@@ -8,6 +8,16 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
+sass:
+  style: compressed
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      css: "/css/custom.css"
+
 author:
   name   : "Liam Daly"
   avatar : "/images/Liam_Daly.jpg"
