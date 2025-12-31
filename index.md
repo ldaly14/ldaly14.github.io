@@ -3,6 +3,12 @@ layout: single
 author_profile: true
 ---
 
+<style>
+.author-profile__avatar img {
+  border-radius: 0 !important;
+}
+</style>
+
 
 ***<span style="color:red;">This website is currently under construction</span>***
 
