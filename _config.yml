@@ -11,17 +11,10 @@ plugins:
 sass:
   style: compressed
 
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      css: "/css/custom.css"
-
 author:
   name   : "Liam Daly"
   avatar : "/images/Liam_Daly.jpg"
-  bio    : "Physics PhD Candidate | Cold Atom Experimentalist"
+  bio    : "Physics PhD Candidate and Cold Atom Experimentalist"
   location: "University of Michigan"
   email  : "liamdaly@umich.edu"
 
