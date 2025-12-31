@@ -1,7 +1,8 @@
 ---
-layout: default
-title: About
+layout: home
+author_profile: true
 ---
+
 
 ***<span style="color:red;">This website is currently under construction</span>***
 
