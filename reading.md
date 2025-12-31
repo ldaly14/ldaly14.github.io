@@ -1,7 +1,9 @@
 ---
-layout: default
 title: Reading List
+layout: single
+permalink: /reading/
 ---
+
 
 # My Physics Reading List
 
