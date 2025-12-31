@@ -10,7 +10,7 @@ plugins:
 
 author:
   name   : "Liam Daly"
-  avatar : ""
+  avatar : "/images/Liam_Daly.jpg"
   bio    : "bio"
   location: "University of Michigan"
   email  : "liamdaly@umich.edu"
