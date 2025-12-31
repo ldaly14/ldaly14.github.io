@@ -3,4 +3,4 @@ layout: default
 title: CV
 ---
 
-![](/CV Liam Daly.pdf)
+![](/CV_Liam_Daly.pdf)
