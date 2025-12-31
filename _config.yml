@@ -17,3 +17,10 @@ header_pages:
   - notes.md
   - reading.md
 
+author:
+  name   : "Liam Daly"
+  avatar : ""
+  bio    : ""
+  location: ""
+  email  : ""
+
