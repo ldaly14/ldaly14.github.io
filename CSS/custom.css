@@ -1,5 +1,6 @@
 .author-profile__avatar img {
     border-radius: 0 !important;  /* removes the circle */
-    width: auto;                  /* optional: keep original aspect */
-    height: auto;                 /* optional: keep original aspect */
+    width: auto !important;                  /* optional: keep original aspect */
+    height: auto !important;                 /* optional: keep original aspect */
+    object-fit: cover !important;
 }
