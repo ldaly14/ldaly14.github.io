@@ -1,7 +1,9 @@
 ---
-layout: default
-title: Blog
+title: Notes
+layout: single
+permalink: /notes/
 ---
+
 
 # Notes
 
