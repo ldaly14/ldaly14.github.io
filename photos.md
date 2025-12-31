@@ -1,7 +1,9 @@
 ---
-layout: default
 title: Photos
+layout: single
+permalink: /photos/
 ---
+
 
 # Photos
 
