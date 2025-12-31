@@ -8,18 +8,10 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-header_pages:
-  - index.md
-  - research.md
-  - CV.md
-  - photos.md
-  - notes.md
-  - reading.md
-
 author:
   name   : "Liam Daly"
   avatar : ""
-  bio    : ""
-  location: ""
-  email  : ""
+  bio    : "bio"
+  location: "University of Michigan"
+  email  : "liamdaly@umich.edu"
 
