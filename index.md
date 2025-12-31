@@ -4,8 +4,12 @@ author_profile: true
 ---
 
 <style>
-.author-profile__avatar img {
+/* Aggressive inline override for rectangular avatar */
+div.author-profile__avatar img {
   border-radius: 0 !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: cover !important;
 }
 </style>
 
